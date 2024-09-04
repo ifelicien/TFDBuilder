@@ -10,19 +10,3 @@ html{
   padding: 0;
   margin: 0;
 }
-
-header{
-display: flex;
-flex-direction: column;
-align-items: center;
-margin-top: 2%;
-margin-bottom: 2%;
-}
-
-header h1{
-  margin: 0;
-}
-
-header h2{
-  margin-top: 0;
-}
